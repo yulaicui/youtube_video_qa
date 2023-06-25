@@ -4,7 +4,7 @@
 This app lets you ask questions about any YouTube video, and will only need to supply a Youtube URL and an OpenAI API key.
 Additionally, you can ask the app to generate a well-formatted blog of the video for you.
 
-This app is powered by [EvaDB](https://github.com/georgia-tech-db/eva), a Python-based database system for AI applications developped by Georgia Tech's DB Group.
+This app is powered by [EvaDB](https://github.com/georgia-tech-db/eva), a Python-based database system for AI applications developed by Georgia Tech's DB Group.
 
 ## Setup
 Ensure that the local Python version is >= 3.8. Install the required libraries:
