@@ -162,4 +162,5 @@ dep.txt
 
 # temporary files
 *evadb_data/
+test_evadb/
 blog.md
